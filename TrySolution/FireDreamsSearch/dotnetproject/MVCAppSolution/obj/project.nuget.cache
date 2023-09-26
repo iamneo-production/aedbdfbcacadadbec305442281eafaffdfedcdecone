@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EIdcIgtvq5lvUfkNSNJ1HZ95yaae5TDyyvq3hg3LEBgnWHsKPDR4NXn2Sk5HApoSnZOiixa3wOMv69A6HF9/PQ==",
+  "success": true,
+  "projectFilePath": "D:\\dotnetSolutions\\WebAPI with MVC\\FireDreamsSearch\\dotnetproject\\BookStoreApp\\BookStoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
